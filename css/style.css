@@ -1,0 +1,25 @@
+.foto {
+    text-align: center;
+    margin-top: 3%;
+    width: auto;
+}
+
+.texto-texto {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    margin-top: 1px;
+    border: 0px solid black;
+    border-style: dashed;
+    
+}
+
+.footer-redes{ 
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: rgba(46, 8, 118, 0.953);
+}
+
+.fondo{
+    background-color: cadetblue;
+}
